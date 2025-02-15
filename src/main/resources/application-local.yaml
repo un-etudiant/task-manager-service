@@ -1,0 +1,9 @@
+spring:
+  config:
+    activate:
+      on-profile: local
+  datasource:
+    url: jdbc:postgresql://localhost:5432/task_manager_db
+    driver-class-name: org.postgresql.Driver
+    username: task_manager_user
+    password: Rushita01
