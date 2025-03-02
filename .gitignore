@@ -5,7 +5,7 @@ target/
 !**/src/test/**/target/
 
 !**/src/main/**/src/main/resources/application-local.yaml
-
+/newrelic/*.*
 ### STS ###
 .apt_generated
 .classpath
